@@ -1,0 +1,49 @@
+{
+    "name": "Иван Иванов",
+    "title": "AI Инженер / Machine Learning Developer",
+    "summary": "Опытный AI инженер с 3+ годами опыта в разработке и внедрении ML решений. Специализация в NLP и компьютерном зрении.",
+    "experience": [
+        {
+            "position": "Senior AI Engineer",
+            "company": "TechCorp",
+            "period": "2022-2024",
+            "responsibilities": [
+                "Разработка и обучение NLP моделей для обработки текста",
+                "Оптимизация inference time моделей на 40%",
+                "Внедрение MLOps практик в команде"
+            ]
+        },
+        {
+            "position": "ML Developer",
+            "company": "DataLabs",
+            "period": "2020-2022",
+            "responsibilities": [
+                "Создание рекомендательных систем",
+                "Работа с компьютерным зрением для анализа изображений",
+                "Развертывание моделей в production"
+            ]
+        }
+    ],
+    "skills": [
+        "Python", "PyTorch", "TensorFlow", "Scikit-learn",
+        "Docker", "Kubernetes", "AWS", "MLflow",
+        "FastAPI", "PostgreSQL", "Git", "CI/CD"
+    ],
+    "education": [
+        {
+            "degree": "Магистр компьютерных наук",
+            "university": "МГУ",
+            "year": "2020"
+        }
+    ],
+    "languages": [
+        {"language": "Русский", "level": "Родной"},
+        {"language": "Английский", "level": "C1"}
+    ],
+    "contact": {
+        "email": "ivan.ivanov@example.com",
+        "phone": "+7 (999) 123-45-67",
+        "linkedin": "linkedin.com/in/ivanov",
+        "github": "github.com/ivanov"
+    }
+}
